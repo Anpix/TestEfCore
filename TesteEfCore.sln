@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.Api", "Teste.Api\Teste.Api.csproj", "{1BEB98D7-6987-4E7F-8C46-F8B4AD662C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.Api", "Teste.Api\Teste.Api.csproj", "{1BEB98D7-6987-4E7F-8C46-F8B4AD662C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.Core", "Teste.Core\Teste.Core.csproj", "{3CD9A46E-C7D2-4958-9631-68A538C9330C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.Core", "Teste.Core\Teste.Core.csproj", "{3CD9A46E-C7D2-4958-9631-68A538C9330C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.Data", "Teste.Data\Teste.Data.csproj", "{BE9C40AE-7C3A-4484-969D-325EACABA98B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.Data", "Teste.Data\Teste.Data.csproj", "{BE9C40AE-7C3A-4484-969D-325EACABA98B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
