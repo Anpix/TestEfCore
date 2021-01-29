@@ -10,7 +10,7 @@ namespace Teste.Data.Contexts
 {
     public class CarroDbContext : DbContext
     {
-        public CarroDbContext(DbContextOptions options) : base(options)
+        public CarroDbContext(DbContextOptions<CarroDbContext> options) : base(options)
         {
 
         }

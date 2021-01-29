@@ -10,7 +10,7 @@ namespace Teste.Data.Contexts
 {
     public class PessoaDbContext : DbContext
     {
-        public PessoaDbContext(DbContextOptions options) : base(options)
+        public PessoaDbContext(DbContextOptions<PessoaDbContext> options) : base(options)
         {
 
         }
